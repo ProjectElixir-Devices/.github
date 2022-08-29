@@ -1,4 +1,4 @@
-![Source Code](https://i.imgur.com/FpxjaQk.jpg)
+![Source Code](https://i.imgur.com/C0Wcdr5.png)
 
 ### Welcome to the Project 𝓔𝓵𝓲𝔁𝓲𝓻 - Device ORG /////////////// [![Download Project Elixir](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download)
 
@@ -27,11 +27,15 @@ Have you done it already? Okay, good. Now if you need to contact us, well, you m
  * [**Changelog**](https://projectelixiros.com/changelog)
  * [**Telegram Discussion Group**](https://t.me/Elixir_Discussion)
 
-### If you have liked our work and want to support us please consider donating for servers
+### Do consider donating or buying me a coffee on Paypal if you want to appreciate our work or join us on Patreon for sustainable support and early build access.
 
 ```bash
-PAYTM UPI ID : dwarmachine24@paytm
+Patreon : https://www.patreon.com/join/uglykid24
+```
+```bash
 GPAY UPI ID: dwarmachine24@oksbi
+```
+```bash
 PAYPAL: https://www.paypal.me/uglykid24
 ```
 
