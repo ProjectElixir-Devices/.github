@@ -1,4 +1,6 @@
-![Source Code](https://i.imgur.com/Uppw05s.png)
+<p align="center">
+  <img src="https://i.imgur.com/po2OKNU.png" />
+</p>
 
 ### Welcome to the Project 𝓔𝓵𝓲𝔁𝓲𝓻 - Device ORG /////////////// 
 
