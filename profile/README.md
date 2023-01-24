@@ -40,7 +40,7 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
 
 
 ### Crowdin for Project Elixir
- * [**Elixir Crowdin**](https://crowdin.com/profile/ProjectElixir)
+ * [**Elixir Crowdin**](https://crowdin.com/project/project-elixir)
 
 ### Contact on Emergency
 * [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
