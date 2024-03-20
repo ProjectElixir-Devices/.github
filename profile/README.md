@@ -6,6 +6,8 @@
 
 <p>"Redefining your android experience with our new update which offers minimal UI enhancement and close to Stock android experience with customization."</p>
 
+A screenshot is worth thousand of words so don't forget to checkout our [**gallery 1**](https://www.buymeacoffee.com/uglykid/gallery) and [**gallery 2**](https://projectelixiros.com/gallery)
+
 ### ⊀ Unleash Innovation ⊁
 
 Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience.
@@ -14,14 +16,17 @@ Your experience while using our ROM will be buttery smooth without compromising 
 
 Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
+> [!CAUTION]
+> - Your warranty is void. Or valid, probably?
+> - Project Elixir is not responsible for any damage you made to your device. You have been warned!
+
 > [!Warning]
-> * Your warranty is void. Or valid, probably?
-> * Project Elixir is not responsible for any damage you made to your device. You have been warned!
 > * We are not responsible for anything that may happen to your phone by installing custom ROMs.
 > * We are not responsible for anything that may happen to your phone by installing any kernels.
 > * You do it at your own risk and take the responsibility upon yourself
 > * You are not to blame Project Elixir or its respected developers for any of your loss.
->
+
+> [!Tip]
 > **Basic Notes for all users:**  
 > * The provided instructions are for Project Elixir based on Android 14.
 > * These will only work if you follow every section and step precisely
@@ -29,6 +34,7 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
 > * The device must have an unlocked bootloader & has Platform Tools installed in pc.
 > * If you are moving from any other Android version to Android 14, it is necessary to do CLEAN FLASH (Format Data)
 > * Take a backup for safe side (If you are coming from older Android version or doing a clean flash)
+> * For any queries or help related to Elixir, join our support group : [Tap Here](https://telegram.me/Elixir_Discussion)  
 
 ### Official Git Organization / Repos
 * [**Elixir Manifest**](https://github.com/Project-Elixir/manifest)
