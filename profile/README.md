@@ -51,12 +51,6 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
  * [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
  * [**Elixir Telegram Group**](https://telegram.me/Elixir_Discussion)
 
-### NOTE
- * Android 15 is the latest OFFICIAL source
- * Android 15 builds are available on [Patreon/BMC](https://www.patreon.com/uglykid24)
- * Due to toxicity in community from v4.3 (A14) all builds will be exclusive to [Patreon/BMC only](https://www.patreon.com/uglykid24)
- * For any further queries contact us via mail or on Telegram
-   
 Have you joined it already? Okay, good. Now if you need to contact us, well, you may ask in our [**Telegram**](https://telegram.me/Elixir_Discussion) Support Group, ~~we may or may not answer.~~
  
  ### Official Website and Downloads
@@ -69,7 +63,13 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
 * [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
 
 > [!Note] 
-> * For urgent need feel free to contact us on provided links. And for personal build request, patreon, donation, suggestions, sponsor, personal device support join telegram group or respective platform like patreon chat. Don't PM unnecessarily !!
+> * For urgent need feel free to contact us on provided links.
+> * And for personal build request, membership, sponsor and support, respective platform like patreon
+> * Don't PM unnecessarily !!
+> * Android 15 is the latest OFFICIAL source
+> * Android 15 builds are available on [Patreon/BMC](https://www.patreon.com/uglykid24)
+> * Due to toxicity in community from v4.3 (A14) all builds will be exclusive to [Patreon/BMC only](https://www.patreon.com/uglykid24)
+> * For any further queries contact us via mail or on Telegram
 
 ### Help to keep Project Elixir active and running by donating. 
 Any amount is appreciated.シ
